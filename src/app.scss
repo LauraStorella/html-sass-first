@@ -1,0 +1,18 @@
+// Variabili CSS
+$color_title : #61ce4e;
+$color_par : #1b3c59;
+$color_strong : rgb(202, 52, 60);
+$marg_bott_par : 40px;
+
+h3 {
+  color: $color_title;
+}
+
+p {
+  color: $color_par;
+  margin-bottom: $marg_bott_par;
+}
+
+strong {
+  color: $color_strong;
+}
